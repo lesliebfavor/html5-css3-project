@@ -1,0 +1,116 @@
+
+ .logo {
+    width: 150px;
+    margin-bottom: 8%;
+   
+}
+.body{
+  background:linear-gradient(to left,),black;
+
+}
+
+ .btn{
+   background-color: rgb(97, 192, 224);
+   font-size: 12px;
+   font-weight: bold;
+   background: #1e90ff;
+   width: 100px;
+   padding: 20px;
+   text-decoration: none;
+   text-transform: uppercase;
+   color: #fff;
+   border-radius: 5px;
+   cursor: pointer;
+   float: right;
+  
+
+ }
+
+.text-central  {
+ margin-top: 25%;
+
+ 
+}
+.text-central h1 {
+   float: right;
+}
+
+.text-central I {
+  float: right;
+}
+
+.text-together  {
+  margin-top: 40%;
+
+}
+
+.Down {
+  margin-top: 12%;
+  text-align: center;
+}
+
+.Down-2 {
+  margin-top: 2%;
+  text-align: center;
+
+}
+.Holyspirit h2{
+  margin-top: 13%;
+  text-align: center;
+}
+
+.Holyspirit p{
+  margin-top: 2%;
+  text-align: center;
+
+}
+
+.alignment {
+    text-align: center;
+    margin-top: 5%;
+
+}
+.alignment-2{
+  text-align: center;
+  margin-top: 2%;
+ 
+}
+
+.alignment-3{
+  text-align: center;
+  margin-top: 2%;
+
+}
+
+.alignment-4{
+  text-align: center;
+  margin-top: 4%;
+}
+
+
+.alignment-5{
+  text-align: left;
+  margin-top: 2%;
+
+}
+
+.alignment-6{
+  text-align: right;
+ 
+}
+
+.alignment-7{
+  text-align: right;
+  margin-top: 1%;
+}
+
+.alignment-8{
+  text-align: right;
+  margin-top: 1%;
+}
+
+.alignment-9 {
+  text-align: left;
+ 
+}
+
